@@ -16,8 +16,7 @@ if __name__ == '__main__':
 ```
 
 结果输出：
-
-`
+```shell
 [*]Checking[http://zz.oa.haima.com], [login/], Status[302]
 [*]Checking[http://zz.oa.haima.com], [login.jsp], Status[200]
 [*]发现后台管理地址：http://zz.oa.haima.com:80/login.jsp,验证状态：True，验证结果：YES
@@ -31,5 +30,5 @@ if __name__ == '__main__':
         "record_time": 1507448255
     }
 ]
-`
+```
 
